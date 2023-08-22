@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qOTKPmjPc5qS24d3zXBaB57UyjMj0UjP8wX7r6wTBbA=",
+  "Source": "AuthMiddleware",
+  "BasePath": "_content/AuthMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
